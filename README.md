@@ -11,10 +11,10 @@ Agentic AI refers to **autonomous AI systems** that go beyond simple responses. 
 
 Before diving into Agentic AI, you should be comfortable with the following:
 
-* ✅ **Advanced Python Programming** (OOP, async, APIs, data handling) (Advance Python Concepts)[https://github.com/SHAJAR5110/OOPs-in-python]
-* ✅ **Basic Backend Development** (Backend Dev)[https://github.com/SHAJAR5110/MERN-stack-Development-full-course.]
-* ✅ **Git and Terminal Usage**    (Backend Dev)[https://github.com/SHAJAR5110/MERN-stack-Development-full-course.]
-* ✅ **REST API Knowledge**        (Backend Dev)[https://github.com/SHAJAR5110/MERN-stack-Development-full-course.]
+* ✅ **Advanced Python Programming** [Advance Python Concepts](https://github.com/SHAJAR5110/OOPs-in-)
+* ✅ **Basic Backend Development** [Backend Dev](https://github.com/SHAJAR5110/MERN-stack-Development-full-course.)
+* ✅ **Git and Terminal Usage**    [Backend Dev](https://github.com/SHAJAR5110/MERN-stack-Development-full-course.)
+* ✅ **REST API Knowledge**        [Backend Dev](https://github.com/SHAJAR5110/MERN-stack-Development-full-course.)
 
 
 
