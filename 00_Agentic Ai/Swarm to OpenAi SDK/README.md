@@ -11,7 +11,7 @@
 
 ---
 
-## **2. Core Concepts (Left Side)**
+## **2. Core Concepts of SDK**
 
 ### **a) Agents (Reasoning, Decision-Making, Planning)**
 
@@ -80,7 +80,7 @@ These logs help track what happened if something fails.
 
 ---
 
-## **3. Anthropic Design Patterns (Right Side)**
+## **3. Anthropic Design Patterns Of SDK**
 
 ### **a) Prompt Chaining**
 
