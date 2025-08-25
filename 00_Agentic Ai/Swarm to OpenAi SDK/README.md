@@ -159,3 +159,12 @@ This whole design lets you:
 2. Scale and monitor agents.
 3. Create **multi-step workflows** with minimal manual control.
 
+# Major Difference: Core Concepts vs Anthropic Design Patterns
+
+| Aspect         | Core Concepts (OpenAI Agents SDK)                                                                  | Anthropic Design Patterns                                                                                |
+|----------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Purpose        | Defines the fundamental principles and structure of agents (reasoning, autonomy, safety, tracing). | Provides reusable design strategies to implement and optimize agent behavior (prompt chaining, routing). |
+| Focus Area     | Focuses on building the agent itself: decision-making, autonomy, safety, and monitoring.           | Focuses on patterns for orchestrating tasks and improving workflows among multiple agents.               |
+| Key Components | Agents, Hands-off Execution, Guardrails, Tracing & Observability.                                  | Prompt Chaining, Routing, Parallelization, Orchestrator-Workers, Evaluator-Optimizer.                    |
+| Example Use    | An agent that plans and executes a trip autonomously with safety logs.                             | Splitting the same trip-planning task into multiple sub-agents using orchestration.                      |
+| Goal           | Provide a safe and controllable foundation for agents.                                             | Optimize and scale agent workflows efficiently.                                                          |
