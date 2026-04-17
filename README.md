@@ -53,10 +53,9 @@ To master the foundations of Agentic AI in **30 days**, consistency is key.
 *  **Daily Focus:** 3–4 hours of *dedicated study & practice*.
 *  **Breakdown:**
 
-  *  **Week 1:** Learn Advanced Python + OpenAI SDK basics
-  *  **Week 2:** Build small agents (tool use + APIs)
-  *  **Week 3:** Add memory + planning modules
-  *  **Week 4:** Create a full project (personal assistant, research bot, etc.)
+  *  **Week 1:** OpenAI SDK basics + Build small agents (tool use + APIs)
+  *  **Week 2:** Add memory + planning modules (Guardrails + Handoffs)
+  *  **Week 3:** Create a full project (personal assistant, research bot, etc.)
 
 With discipline and focus, you can build strong fundamentals in just one month.
 
