@@ -9,7 +9,7 @@ load_dotenv()
 #  <---------------For Gemini API Key----------------->
 
 gemini_api_key = os.environ.get("GEMINI_API_KEY")
-print(gemini_api_key)
+# print(gemini_api_key)
 
 
 #Reference: https://ai.google.dev/gemini-api/docs/openai
